@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <head>
-  <link href="../_sass/app.3d811261.css" rel="stylesheet">
+  <link href="https://vcad-ai.github.io/static/css/app.3d811261.css" rel="stylesheet">
 </head>
 
 
