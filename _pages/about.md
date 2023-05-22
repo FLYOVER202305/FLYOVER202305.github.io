@@ -51,24 +51,15 @@ The first high-speed autonomous driving simulation Challenge in China, relying o
 
 
 
-<p class="small-title-120width">LEARN MORE:</p>
+<p class="small-title-120width">LEARN MORE:</p><br>
 <p class="small-title-300width">
     <a href="https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745">COMPETITION INTRODUCTION VIDEO</a>
 </p><br>
 <p class="small-title-300width">
     <a href="https://tianchi.aliyun.com/competition/entrance/531996/information">COMPETITION TITLE</a><br>
-</p>
+</p><br>
 
-[//]: # ([COMPETITION INTRODUCTION VIDEO]&#40;https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745&#41;)
-
-[//]: # ()
-[//]: # ()
-[//]: # ([COMPETITION TITLE]&#40;https://tianchi.aliyun.com/competition/entrance/531996/information&#41;)
-
-[//]: # ()
-
-<img src = "../images/saiti.gif"   width = 800>     
-
+<img src = "../images/saiti.gif"   width = 800>
 
 
 * DATA SET:MATRIX FLYOVER
@@ -228,7 +219,7 @@ width: 76%;
 color: #4e4e4e;
 padding: 20px;
 box-sizing: border-box;
-background: #f2f2f2
+background: white
 }
 
 .r-top[data-v-662c1668] {
@@ -252,28 +243,33 @@ color: #003fa6
 }
 
 .small-title-350width {
+display: inline-block;
 background: #d9edf7;
-width: 350px;
+width: auto;
 overflow: hidden;
 font-weight: bold;
+padding: 0 5px;
 color: #070707
 }
 
 .small-title-300width {
 display: inline-block;
 background: #d9edf7;
-width: 300px;
+width: auto;
 overflow: hidden;
 font-weight: bold;
 color: #070707;
+padding: 0 5px;
 text-indent: 2em
 }
 
 .small-title-120width {
+display: inline-block;
 background: #d9edf7;
-width: 120px;
+width: auto;
 overflow: hidden;
 font-weight: bold;
+padding: 0 5px;
 color: #070707
 }
 </style>

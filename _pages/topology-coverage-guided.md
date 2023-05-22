@@ -86,30 +86,11 @@ Below are some of the discovered issues of the open-source Apollo stack:
   </div>
 </div>
 
-[//]: # ()
-[//]: # (* Failed to change lane)
-
-[//]: # ()
-[//]: # (![test_img]&#40;../images/TOPOdongtu01.GIF&#41;)
-
-[//]: # ()
-[//]: # (* Stuck at stop sign junction)
-
-[//]: # ()
-[//]: # (![test_img]&#40;../images/TOPOdongtu02.GIF&#41;)
-
-[//]: # ()
-[//]: # (* Produced inefficient routing)
-
-[//]: # ()
-[//]: # (![test_img]&#40;../images/TOPOdongtu03.GIF&#41;)
-
 Readers are referred to the following paper for more details.
 
 Y. Tang et al., "Route Coverage Testing for Autonomous Vehicles via Map Modeling," 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 11450-11456, doi: 10.1109/ICRA48506.2021.9560890.[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560890&isnumber=9560666)
 
 <style>
-    
 .i-list[data-v-662c1668] {
 width: 100%;
 display: flex;
@@ -117,17 +98,14 @@ justify-content: space-between;
 margin-top: 20px
 }
 
-
 .l-img[data-v-662c1668] {
 width: 30%;
 margin-right: 20px
 }
-
 
 .img-bottom[data-v-662c1668] {
 background: #fff;
 width: 100%;
 overflow: hidden
 }
-
 </style>
