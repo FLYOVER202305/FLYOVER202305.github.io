@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-
-[//]: # (  <link href="https://vcad-ai.github.io/static/css/app.3d811261.css" rel="stylesheet">)
-[//]: # (  <link href="../assets/css/app.3d811261.css" rel="stylesheet" type="text/css">)
-</head>
-
-
 ADST ( Autonomous Driving Simulation Test ) focuses on autonomous driving-related testing and simulation technologies. Alibaba's self-driving lab is cooperating with well-known universities at home and abroad to research autonomous driving technology. The current research directions are as follows:
 
 
