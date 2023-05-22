@@ -43,7 +43,7 @@ Alibaba Autonomous Driving Lab, Nanyang Technological University and Tianjin Uni
 INDUSTRY INFLUENCE
 ======
 
-<p class="small-title-350width">2022 "TIANCHI" SIMULATION COMPETITION</p>
+<p class="small-title">2022 "TIANCHI" SIMULATION COMPETITION</p>
 
 <img src = "../images/bisaihaibao.jpg"   width = 800>     
 
@@ -51,13 +51,15 @@ The first high-speed autonomous driving simulation Challenge in China, relying o
 
 
 
-<p class="small-title-120width">LEARN MORE:</p>
-<p class="small-title-300width">
+<span class="small-title">LEARN MORE:</span><br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span><!-- 使用空格来进行首行缩进 -->
+<span class="small-title">
     <a href="https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745">COMPETITION INTRODUCTION VIDEO</a>
-</p>
-<p class="small-title-300width">
+</span><br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="small-title">
     <a href="https://tianchi.aliyun.com/competition/entrance/531996/information">COMPETITION TITLE</a><br>
-</p>
+</span>
 
 <img src = "../images/saiti.gif"   width = 800>
 
@@ -164,7 +166,7 @@ ACADEMIC RESEARCH
 <div class="i-list" data-v-662c1668="">
   <div class="l-left" data-v-662c1668="">
     <div class="left-img" data-v-662c1668="">
-      <img src="../images/homedongtu04.GIF" alt="" data-v-662c1668="">
+      <img src="../images/homedongtu04.gif" alt="" data-v-662c1668="">
     </div>
   </div>
   <div class="l-right" data-v-662c1668="">
@@ -242,7 +244,7 @@ padding: 6px 16px;
 color: #003fa6
 }
 
-.small-title-350width {
+.small-title {
 display: inline-block;
 background: #d9edf7;
 width: auto;
@@ -252,25 +254,5 @@ padding: 0 5px;
 color: #070707
 }
 
-.small-title-300width {
-display: inline-block;
-background: #d9edf7;
-width: auto;
-overflow: hidden;
-font-weight: bold;
-color: #070707;
-padding: 0 5px;
-text-indent: 2em
-}
-
-.small-title-120width {
-display: inline-block;
-background: #d9edf7;
-width: auto;
-overflow: hidden;
-font-weight: bold;
-padding: 0 5px;
-color: #070707
-}
 </style>
 
