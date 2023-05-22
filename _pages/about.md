@@ -51,13 +51,13 @@ The first high-speed autonomous driving simulation Challenge in China, relying o
 
 
 
-<p class="small-title-120width">LEARN MORE:</p><br>
+<p class="small-title-120width">LEARN MORE:</p>
 <p class="small-title-300width">
     <a href="https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745">COMPETITION INTRODUCTION VIDEO</a>
-</p><br>
+</p>
 <p class="small-title-300width">
     <a href="https://tianchi.aliyun.com/competition/entrance/531996/information">COMPETITION TITLE</a><br>
-</p><br>
+</p>
 
 <img src = "../images/saiti.gif"   width = 800>
 
@@ -217,7 +217,7 @@ transform: scale(1.2)
 .l-right[data-v-662c1668] {
 width: 76%;
 color: #4e4e4e;
-padding: 20px;
+padding: 0 20px 10px 20px;
 box-sizing: border-box;
 background: white
 }
