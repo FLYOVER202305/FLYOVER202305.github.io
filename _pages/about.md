@@ -72,13 +72,15 @@ Matrix Flyover(High precision map simulation data set of high-speed hubs in Chin
 
 At present, there are 1443 HD Maps, based on Hangzhou real data generalization generation, support mainstream formats (open drive & sumo & apollo), parameter sampling and generalization in line with highway junction design specifications. This Dataset filled the gap of the lack of real and high precision and generalization of hdmap in the industry, and provided the basis for the subsequent map-based construction of more abundant scene library and related automatic driving research. The relevant results were published in the robot top meeting ICRA 2023,[See details](https://arxiv.org/abs/2301.12738).
 
-LEARN MORE:
-
-[GITHUB SITE ADDRESS](https://ntutangyun.github.io/highway-interchange-dataset-website/)
-
-
-[TECHNICAL INTERPRETATION VIDEO](https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6)
-
+<span class="small-title">LEARN MORE:</span><br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span><!-- 使用空格来进行首行缩进 -->
+<span class="small-title">
+<a href="https://ntutangyun.github.io/highway-interchange-dataset-website/">GITHUB SITE ADDRESS</a>
+</span><br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="small-title">
+<a href="https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6">TECHNICAL INTERPRETATION VIDEO</a><br>
+</span>
 
 <img src = "../images/xjishujiedu.gif"   width = 600>    
 
@@ -99,14 +101,14 @@ ACADEMIC RESEARCH
   </div>
   <div class="l-right" data-v-662c1668="">
     <div class="r-top" data-v-662c1668="">
-      HDMapNet: An Online HD Map Construction and Evaluation Framework
+      TOPOLOGY COVERAGE-GUIDED TESTING
     </div>
     <div class="r-cont" data-v-662c1668="">
-      HDMapNet is an online HD map learning framework, which dynamically constructs HD maps based on onboard sensor observations. It is a more scalable way to provide semantic and geometry priors to self-driving vehicles than traditional pre-annotated HD maps.
+     Y. Tang et al., “Route Coverage Testing for Autonomous Vehicles via Map Modeling,” 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 11450-11456
     </div>
     <div class="t-btn" data-v-662c1668="">
-      <a href="https://baidu.com"><button data-v-662c1668="">Paper1</button></a>
-      <a href="https://vcad-ai.github.io/"><button data-v-662c1668="">Project</button></a>
+      <a href="https://ieeexplore.ieee.org/document/9560890?reason=concurrency"><button data-v-662c1668="">Paper1</button></a>
+      <a href="https://flyover202305.github.io//topology-coverage-guided/"><button data-v-662c1668="">Project</button></a>
     </div>
   </div>
 </div>
@@ -124,14 +126,16 @@ ACADEMIC RESEARCH
   </div>
   <div class="l-right" data-v-662c1668="">
     <div class="r-top" data-v-662c1668="">
-      HDMapNet: An Online HD Map Construction and Evaluation Framework
+      COLLISOIN AVOIDANCE TESTING
     </div>
     <div class="r-cont" data-v-662c1668="">
-      HDMapNet is an online HD map learning framework, which dynamically constructs HD maps based on onboard sensor observations. It is a more scalable way to provide semantic and geometry priors to self-driving vehicles than traditional pre-annotated HD maps.
+      Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang, “Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps,” 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 179-185
+      <br>Y. Tang, et al., “Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification,” in 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Melbourne, Australia, 2021 pp. 1342-1346. 
     </div>
     <div class="t-btn" data-v-662c1668="">
-      <a href="https://baidu.com"><button data-v-662c1668="">Paper1</button></a>
-      <a href="https://vcad-ai.github.io/"><button data-v-662c1668="">Project</button></a>
+      <a href="https://ieeexplore.ieee.org/document/9575536?reason=concurrency"><button data-v-662c1668="">Paper1</button></a>
+      <a href="https://www.computer.org/csdl/proceedings-article/ase/2021/033700b342/1AjT6sGEmIw"><button data-v-662c1668="">Paper2</button></a>
+      <a href="https://flyover202305.github.io//collisoin-avoidance/"><button data-v-662c1668="">Project</button></a>
     </div>
   </div>
 </div>
@@ -148,14 +152,13 @@ ACADEMIC RESEARCH
   </div>
   <div class="l-right" data-v-662c1668="">
     <div class="r-top" data-v-662c1668="">
-      HDMapNet: An Online HD Map Construction and Evaluation Framework
+      HDMapNet
     </div>
     <div class="r-cont" data-v-662c1668="">
-      HDMapNet is an online HD map learning framework, which dynamically constructs HD maps based on onboard sensor observations. It is a more scalable way to provide semantic and geometry priors to self-driving vehicles than traditional pre-annotated HD maps.
+      This work is currently under review. More details will be released later.
     </div>
     <div class="t-btn" data-v-662c1668="">
-      <a href="https://baidu.com"><button data-v-662c1668="">Paper1</button></a>
-      <a href="https://vcad-ai.github.io/"><button data-v-662c1668="">Project</button></a>
+       <a href="https://flyover202305.github.io//HD-map-generation/"><button data-v-662c1668="">Project</button></a>
     </div>
   </div>
 </div>
@@ -171,14 +174,14 @@ ACADEMIC RESEARCH
   </div>
   <div class="l-right" data-v-662c1668="">
     <div class="r-top" data-v-662c1668="">
-      HDMapNet: An Online HD Map Construction and Evaluation Framework
+      GENERATE INTERCHANGES
     </div>
     <div class="r-cont" data-v-662c1668="">
-      HDMapNet is an online HD map learning framework, which dynamically constructs HD maps based on onboard sensor observations. It is a more scalable way to provide semantic and geometry priors to self-driving vehicles than traditional pre-annotated HD maps.
+      Yuan Zhou, Gengjie Lin, Yun Tang, “FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing,” which is Accepted by ICRA 2023
     </div>
     <div class="t-btn" data-v-662c1668="">
-      <a href="https://baidu.com"><button data-v-662c1668="">Paper1</button></a>
-      <a href="https://vcad-ai.github.io/"><button data-v-662c1668="">Project</button></a>
+      <a href="https://arxiv.org/abs/2301.12738"><button data-v-662c1668="">Paper1</button></a>
+      <a href="https://flyover202305.github.io//generate-interchanges/"><button data-v-662c1668="">Project</button></a>
     </div>
   </div>
 </div>
