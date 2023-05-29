@@ -147,7 +147,7 @@ ACADEMIC RESEARCH
 <div class="i-list" data-v-662c1668="">
   <div class="l-left" data-v-662c1668="">
     <div class="left-img" data-v-662c1668="">
-      <img src="../images/homedongtu04.gif" alt="" data-v-662c1668="">
+      <img src="../images/zuixinHD.jpg" alt="" data-v-662c1668="">
     </div>
   </div>
   <div class="l-right" data-v-662c1668="">

@@ -46,17 +46,27 @@ The overall diagram is shown below:
 
 Below are some of the collision test cases that we discovered during experiments:
 
-* Deadlock
 
-![test_img](../images/COLLdongtu01.GIF)
-
-* Incorrect transition from yielding to overtaking
-
-![test_img](../images/COLLdongtu02.GIF)
-
-* Incorrect Prediction of NPC Trajectory
-
-![test_img](../images/COLLdongtu03.GIF)
+<div class="i-list" data-v-662c1668="">
+  <div class="l-img" data-v-662c1668="">
+    <ul><li>Deadlock</li></ul>
+    <div class="img-bottom" data-v-662c1668="">
+      <img src="../images/COLLdongtu01.GIF" alt="" data-v-662c1668="">
+    </div>
+  </div>
+  <div class="l-img" data-v-662c1668="">
+    <ul><li>Incorrect transition from yielding to overtaking</li></ul>
+    <div class="img-bottom" data-v-662c1668="">
+      <img src="../images/COLLdongtu02.GIF" alt="" data-v-662c1668="">
+    </div>
+  </div>
+  <div class="l-img" data-v-662c1668="">
+    <ul><li>Incorrect Prediction of NPC Trajectory</li></ul>
+    <div class="img-bottom" data-v-662c1668="">
+      <img src="../images/COLLdongtu03.GIF" alt="" data-v-662c1668="">
+    </div>
+  </div>
+</div>
 
 For more details, please refer to our following papers:
 
@@ -64,3 +74,22 @@ Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang, "Collision Avoidance Testing for A
 
 Y. Tang, et al., "Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification," in 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Melbourne, Australia, 2021 pp. 1342-1346. [URL]( https://doi.ieeecomputersociety.org/10.1109/ASE51524.2021.9678735)
 
+<style>
+.i-list[data-v-662c1668] {
+width: 100%;
+display: flex;
+justify-content: space-between;
+margin-top: 20px
+}
+
+.l-img[data-v-662c1668] {
+width: 30%;
+margin-right: 20px
+}
+
+.img-bottom[data-v-662c1668] {
+background: #fff;
+width: 100%;
+overflow: hidden
+}
+</style>
