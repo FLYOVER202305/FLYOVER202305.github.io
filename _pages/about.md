@@ -64,7 +64,8 @@ The first high-speed autonomous driving simulation Challenge in China, relying o
 <img src = "../images/saiti.gif"   width = 800>
 
 
-* DATA SET:MATRIX FLYOVER
+
+<p class="small-title">DATA SET:MATRIX FLYOVER</p>
 
 Matrix Flyover(High precision map simulation data set of high-speed hubs in China),Developed by Alibaba and Nanyang Technological in Singapore. In view of the large amount of testing required for 160,000 km expressway in China and the high cost of high-precision map generation, it is difficult to solve the problem of test generalization. The simulation map data set of high-speed hub is constructed based on simulation generation.
 
@@ -90,7 +91,7 @@ ACADEMIC RESEARCH
 ======
 
 
-[TOPOLOGY COVERAGE-GUIDED TESTING](https://flyover202305.github.io//topology-coverage-guided/)
+
 
 
 <div class="i-list" data-v-662c1668="">
@@ -114,7 +115,6 @@ ACADEMIC RESEARCH
 </div>
 
 
-[COLLISOIN AVOIDANCE TESTING](https://flyover202305.github.io//collisoin-avoidance/)
 
 
 
@@ -140,7 +140,7 @@ ACADEMIC RESEARCH
   </div>
 </div>
 
-[HD MAP GENERATION](https://flyover202305.github.io//HD-map-generation/)
+
 
 
 
@@ -163,7 +163,7 @@ ACADEMIC RESEARCH
   </div>
 </div>
 
-[GENERATE INTERCHANGES](https://flyover202305.github.io//generate-interchanges/)
+
 
 
 <div class="i-list" data-v-662c1668="">
